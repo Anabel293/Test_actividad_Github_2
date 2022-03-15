@@ -5,4 +5,6 @@ Primero fue crear un repositorio
 
 Después clonar un repositorio a mi compu
 
+Crear una rama con el nombre de AnabelLopez
+
 
