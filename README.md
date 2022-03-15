@@ -5,4 +5,4 @@ Primero fue crear un repositorio
 
 Después clonar un repositorio a mi compu
 
-
+añadí una nueva carpeta de comentarios
